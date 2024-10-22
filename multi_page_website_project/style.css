@@ -47,6 +47,7 @@ h1 + p {
     font-weight: 600;
     border-radius: 1000px;
     transition: 150ms ease;
+    color: white;
 }
 #cta-button:hover{
     scale: 1.1;
